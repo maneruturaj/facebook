@@ -1,0 +1,17 @@
+package Ruturaj_Loop; //pakage
+
+public class Ruturaj_loop_Class {   //class
+	
+	public static void main(String[]args)  //main method
+	{
+		//for loop( datatype value assign; variable condition ; increement
+		for(int a=5 ; a> 8 ; a++)
+	
+		{
+			System.out.println("hii"); //printing statement
+			System.out.println("Hello");
+			
+		}
+	}
+
+}
