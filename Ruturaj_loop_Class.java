@@ -9,7 +9,7 @@ public class Ruturaj_loop_Class {   //class
 	
 		{
 			System.out.println("HELLO SANGLIKAR"); //printing statement
-			System.out.println("WELCOME TO the DREAM CITY we will do it");
+			System.out.println("WELCOME TO the DREAM CITY");
 			
 		}
 	}
