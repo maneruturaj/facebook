@@ -8,7 +8,7 @@ public class Ruturaj_loop_Class {   //class
 		for(int a=5 ; a> 8 ; a++)
 	
 		{
-			System.out.println("HELLO SANGLIKAR"); //printing statement
+			System.out.println("HELLO SANGLIKAR");
 			System.out.println("WELCOME TO the DREAM CITY");
 			
 		}
